@@ -1,6 +1,6 @@
 # Neural-Network
 **Project carried out for a Knowledge and Reasoning class at ISEC.**\
-Project carried out in Matlab focusing on the study of neural networks implementing and testing different architectures of feedforward neural networks to correctly classify 10 Greek characters.\
+Project carried out in Matlab focusing on the study of neural networks implementing and testing different architectures of feedforward neural networks to correctly classify 10 Greek characters.
 
 This project tested the most diverse ***topologies***:
 - FeedForwardNet
